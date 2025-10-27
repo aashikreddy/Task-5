@@ -49,12 +49,12 @@ BankAccountSimulation/
 Enter Account Holder Name: Aashik
 Enter Account Number: 12345
 
-1️⃣ Deposit
-2️⃣ Withdraw
-3️⃣ Apply Interest
-4️⃣ Show Balance
-5️⃣ Show Transaction History
-0️⃣ Exit
+1️. Deposit
+2️. Withdraw
+3️. Apply Interest
+4️. Show Balance
+5️. Show Transaction History
+0️. Exit
 Enter your choice: 1
 Enter amount to deposit: 1000
 ✅ Deposited ₹1000 successfully.
