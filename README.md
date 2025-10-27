@@ -114,32 +114,8 @@ Interest applied: 300.0 | New Balance: 6300.0
 
 ---
 
-## 📄 Deliverables
-- Java source files (`.java`)
-- This `README.md`
-- (Optional) Screenshots of successful execution
-- GitHub repository link
-
----
-
-## 🧠 Interview Prep Questions
-1. What is inheritance in Java?  
-2. Why use the `this` keyword?  
-3. What is method overriding vs overloading?  
-4. What is object instantiation?  
-5. Explain single vs multiple inheritance.  
-6. What is encapsulation?  
-7. What is constructor overloading?  
-8. Can we override static methods?  
-9. What is runtime polymorphism?  
-10. Difference between class and object?
-
----
-
 ## 🧑‍💻 Author
-**Aashik Reddy**  
-Java Developer Internship — Task 5  
-📅 2025  
+**Aashik Reddy**    
 
 ---
 
